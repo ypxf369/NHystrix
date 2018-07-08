@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHystrix", "NHystrix\NHystrix.csproj", "{7B1D0E74-7D99-42A8-9689-1B352CAA7C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHystrix.Test", "NHystrix.Test\NHystrix.Test.csproj", "{D119F11D-63EE-4492-8097-1CE7BDD10905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1D0E74-7D99-42A8-9689-1B352CAA7C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1D0E74-7D99-42A8-9689-1B352CAA7C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1D0E74-7D99-42A8-9689-1B352CAA7C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1D0E74-7D99-42A8-9689-1B352CAA7C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D119F11D-63EE-4492-8097-1CE7BDD10905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D119F11D-63EE-4492-8097-1CE7BDD10905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D119F11D-63EE-4492-8097-1CE7BDD10905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D119F11D-63EE-4492-8097-1CE7BDD10905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B488EDEA-E1D7-4A51-A105-8925807A5A16}
+	EndGlobalSection
+EndGlobal
